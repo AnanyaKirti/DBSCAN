@@ -5,7 +5,7 @@ Python implementation of 'Density Based Spatial Clustering of Applications with 
 
 ## Usage
 
-Use the main file "DBSCAN.py" and call the main function. You have to choose an appropriate epsilon, and minimum number of points.
+Use the main file *"DBSCAN.py"*  and call the main function. You have to choose an appropriate epsilon, and minimum number of points.
 You may use graphic to see the clusters (if the data is 2D.)
 Pass the name of the file as an argument while runnung the file.
 
